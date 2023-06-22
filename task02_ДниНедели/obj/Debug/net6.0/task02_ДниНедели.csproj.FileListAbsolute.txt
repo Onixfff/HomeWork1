@@ -1,0 +1,15 @@
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.csproj.AssemblyReference.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.AssemblyInfoInputs.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.AssemblyInfo.cs
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.csproj.CoreCompileInputs.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\bin\Debug\net6.0\task02_ДниНедели.exe
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\bin\Debug\net6.0\task02_ДниНедели.deps.json
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\bin\Debug\net6.0\task02_ДниНедели.runtimeconfig.json
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\bin\Debug\net6.0\task02_ДниНедели.dll
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\bin\Debug\net6.0\task02_ДниНедели.pdb
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.dll
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\refint\task02_ДниНедели.dll
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.pdb
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\task02_ДниНедели.genruntimeconfig.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task02_ДниНедели\obj\Debug\net6.0\ref\task02_ДниНедели.dll

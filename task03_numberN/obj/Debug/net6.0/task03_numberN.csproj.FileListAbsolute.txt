@@ -1,0 +1,15 @@
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\bin\Debug\net6.0\task03_numberN.exe
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\bin\Debug\net6.0\task03_numberN.deps.json
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\bin\Debug\net6.0\task03_numberN.runtimeconfig.json
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\bin\Debug\net6.0\task03_numberN.dll
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\bin\Debug\net6.0\task03_numberN.pdb
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.csproj.AssemblyReference.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.AssemblyInfoInputs.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.AssemblyInfo.cs
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.csproj.CoreCompileInputs.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.dll
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\refint\task03_numberN.dll
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.pdb
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\task03_numberN.genruntimeconfig.cache
+C:\Users\danil\YandexDisk\Gig\Знакомство с языками программирования Семинар\task03_numberN\obj\Debug\net6.0\ref\task03_numberN.dll
