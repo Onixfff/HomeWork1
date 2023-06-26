@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj": {}
+    "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj": {
+    "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj",
+        "projectUniqueName": "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj",
         "projectName": "task03_numberN",
-        "projectPath": "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj",
+        "projectPath": "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\task03_numberN.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\obj\\",
+        "outputPath": "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task03_numberN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
