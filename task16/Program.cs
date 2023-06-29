@@ -5,7 +5,6 @@
 25, 5 -> да
 8,9 -> нет
 */
-
 System.Console.Write("Введите 1 число - ");
 int firstNumber = Convert.ToInt32(Console.ReadLine());
 System.Console.Write("Введите 2 число - ");
