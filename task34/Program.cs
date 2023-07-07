@@ -1,7 +1,7 @@
 ﻿int[] array = CreateArray();
 System.Console.Write("Массив чисел - ");
 ShowArray(array);
-System.Console.WriteLine($"\nКол-во четных чисел - {ShowsNumberOfEvenNumbers(array)}");
+System.Console.WriteLine($"\nКол-во четных чисел - {CalkEnentNumbers(array)}");
 
 int[] CreateArray()
 {
@@ -16,10 +16,10 @@ int[] CreateArray()
         array2[i] = random.Next(minArrayNumber, maxArrayNumber);
     }
 
-    return array2; 
+    return array2;
 }
 
-int ShowsNumberOfEvenNumbers(int[] array)
+int CalkEnentNumbers(int[] array)
 {
     int count = 0;
     for(int i = 0; i < array.Length; i++)
@@ -37,4 +37,3 @@ void ShowArray(int[] array)
         System.Console.Write($"{array[i]} ");
     }
 }
-
