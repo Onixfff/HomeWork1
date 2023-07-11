@@ -14,11 +14,14 @@ while(true)
             System.Console.WriteLine(count);
         else
             System.Console.WriteLine("Error. UserInput");
+        
+        count = 0;
     }
     else
     {
-        int result;
-        checkParse = Int32.TryParse(userInput, out result);
-        count++;
+        int number;
+        checkParse = Int32.TryParse(userInput, out number);
+        if(number > 0)
+            count++;
     }
 }
