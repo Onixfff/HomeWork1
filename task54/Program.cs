@@ -1,6 +1,8 @@
 ﻿int[,] array = CreateArray(3, 4);
 ShowArray(array);
-ArithmeticMeanInColumn(array);
+System.Console.WriteLine();
+SortsInDescendingOrder(array);
+ShowArray(array);
 
 int[,] CreateArray(int m, int n)
 {
@@ -43,22 +45,25 @@ void ShowArray(int[,] array)
         }
 }
 
-void ArithmeticMeanInColumn(int[,] array)
+void SortsInDescendingOrder(int[,] array)
 {
-    float sum = 0;
     int rows = array.GetLength(0);
     int columns = array.GetLength(1);
+    int temp;
 
-    for(int j = 0; j < columns; j++)
+    for(int i = 0; i < rows; i++)
     {
-        for(int i = 0; i < rows; i++)
+        for(int j = 0; j < columns; j++)
         {
-            if (i < rows - 1)
-                sum += array[i, j];
-            else
-                sum = (sum + array[i, j]) / rows;
+            for(int t = 0; t < columns - 1; t++)
+            {
+                if(array[i,t] > array[i,t+1])
+                {
+                    temp = array[i, t];
+                    array[i,t] = array[i,t+1];
+                    array[i,t+1] = temp;
+                }
+            }
         }
-        System.Console.WriteLine(sum + ", ");
-        sum = 0;
     }
 }
