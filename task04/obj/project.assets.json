@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task04\\task04.csproj",
+      "projectUniqueName": "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task04\\task04.csproj",
       "projectName": "task04",
-      "projectPath": "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task04\\task04.csproj",
+      "projectPath": "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task04\\task04.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task04\\obj\\",
+      "outputPath": "c:\\Users\\danil\\YandexDisk\\Gig\\Знакомство с языками программирования Семинар\\task04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

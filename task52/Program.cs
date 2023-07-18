@@ -1,12 +1,11 @@
 ﻿int[,] array = CreateArray(3, 4);
 ShowArray(array);
-System.Console.WriteLine();
-ReturnValueInArray(5, 4, array);
+ArithmeticMeanInColumn(array);
 
 int[,] CreateArray(int m, int n)
 {
     Random random = new Random();
-    int minRandom = -10;
+    int minRandom = 1;
     int maxRandom = 10;
 
     int[,] array = new int[m, n];
@@ -24,8 +23,8 @@ int[,] CreateArray(int m, int n)
 
 void ShowArray(int[,] array)
 {
-        int rows = array.GetLength(0);
-        int columns = array.GetLength(1);
+        int rows = array.GetUpperBound(0) + 1;
+        int columns = array.GetUpperBound(1) + 1;
 
         for(int i = 0; i < rows; i ++)
         {
@@ -44,25 +43,22 @@ void ShowArray(int[,] array)
         }
 }
 
-void ReturnValueInArray(int x, int y, int[,] array)
+void ArithmeticMeanInColumn(int[,] array)
 {
+    float sum = 0;
     int rows = array.GetLength(0);
     int columns = array.GetLength(1);
 
-    if(x <= rows)
+    for(int j = 0; j < columns; j++)
     {
-        if(y <= columns)
+        for(int i = 0; i < rows; i++)
         {
-            System.Console.WriteLine($"Значение по адресу {x}, {y} = {array[x, y]}" );
+            if (i < rows - 1)
+                sum += array[i, j];
+            else
+                sum = (sum + array[i, j]) / rows;
         }
-        else
-        {
-            System.Console.WriteLine($"{x}, {y} => Такого числа в массиве нету");
-        }
-    }
-    else
-    {
-        System.Console.WriteLine($"{x}, {y} => Такого числа в массиве нету");
+        System.Console.WriteLine(sum + ", ");
+        sum = 0;
     }
 }
-
