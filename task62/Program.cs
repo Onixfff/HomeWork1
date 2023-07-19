@@ -19,18 +19,6 @@ int[,] CreateArray(int length)
         array[x, y] =  k;
         switch (d)
         {
-            case 1:
-                if (x < maxX)
-                {
-                    x++;
-                }
-                else
-                {
-                    d = 2;
-                    maxX--;
-                    k--;
-                }
-                break;
             case 0:
                 if (y < maxY)
                 {
@@ -42,19 +30,19 @@ int[,] CreateArray(int length)
                     maxY--;
                     k--;
                 }
-                break;
-            case 3:
-                if (x > minX)
+            break;
+            case 1:
+                if (x < maxX)
                 {
-                    x--;
+                    x++;
                 }
                 else
                 {
-                    d = 0;
-                    minX--;
+                    d = 2;
+                    maxX--;
                     k--;
                 }
-                break;
+            break;
             case 2:
                 if (y > minY)
                 {
@@ -63,10 +51,27 @@ int[,] CreateArray(int length)
                 else
                 {
                     d = 3;
-                    minY--;
+                    minY++;
+                    k--;
+                }
+            break;
+            case 3:
+                if (x > minX)
+                {
+                    x--;
+                }
+                else if(k == length * length)
+                {
+                    break;
+                }
+                else
+                {
+                    d = 0;
+                    minX++;
                     k--;
                 }
                 break;
+
         }
     }
 
