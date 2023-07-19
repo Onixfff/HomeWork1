@@ -1,26 +1,24 @@
-﻿int[,] array = CreateArray(3, 4);
+﻿double[,] array = CreateArray(3, 4);
 ShowArray(array);
 
-int[,] CreateArray(int m, int n)
+double[,] CreateArray(int m, int n)
 {
     Random random = new Random();
-    int minRandom = -10;
-    int maxRandom = 10;
 
-    int[,] array = new int[m, n];
+    double[,] array = new double[m, n];
 
     for(int i = 0; i < m; i++)
     {
         for(int j = 0; j < n; j++)
         {
-            array[i, j] = random.Next(minRandom, maxRandom);
+            array[i, j] = random.NextDouble();
         }
     }
 
     return array;
 }
 
-void ShowArray(int[,] array)
+void ShowArray(double[,] array)
 {
         int rows = array.GetUpperBound(0) + 1;
         int columns = array.GetUpperBound(1) + 1;
